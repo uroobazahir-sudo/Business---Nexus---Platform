@@ -1,0 +1,277 @@
+# Nexus – Investor & Entrepreneur Collaboration Platform
+
+## Advanced Frontend Internship Project
+
+### Project Overview
+Nexus is a collaboration platform designed to connect **Investors** and **Entrepreneurs**. This internship project focuses on enhancing the existing React application by implementing advanced frontend features such as scheduling, video calling, document management, payment simulation, and security improvements.
+
+> **Note:** This project is built on an existing codebase. The objective is to extend and improve the provided application rather than develop it from scratch.
+
+---
+
+## Repository & Deployment
+
+- **Base Repository:** Nexus GitHub Repository (Forked)
+- **Base Deployment:** https://nexus-iota-five.vercel.app/login
+
+---
+
+## Technology Stack
+
+- React.js
+- React Router
+- Tailwind CSS / CSS
+- FullCalendar / React Calendar
+- WebRTC (Frontend Mock)
+- React Signature Canvas
+- React Joyride
+- Vercel
+- Git & GitHub
+
+---
+
+# Project Timeline
+
+## Week 1 – Setup & Meeting Scheduling
+
+### Milestone 1 – Project Setup
+
+- Forked and cloned the Nexus repository
+- Configured the development environment
+- Studied the existing component architecture
+- Implemented a consistent UI theme
+- Improved responsive layouts
+
+### Milestone 2 – Meeting Scheduling Calendar
+
+Implemented a scheduling system featuring:
+
+- Calendar integration
+- Add availability slots
+- Edit availability
+- Meeting request system
+- Accept/Decline meeting requests
+- Display confirmed meetings on dashboard
+
+### Week 1 Deliverables
+
+- Updated GitHub Repository
+- Vercel Deployment
+
+---
+
+# Week 2 – Video Calling & Document Chamber
+
+## Milestone 3 – Video Calling
+
+Developed a frontend video calling interface including:
+
+- Start Call
+- End Call
+- Audio Toggle
+- Video Toggle
+- Screen Sharing (Optional)
+
+---
+
+## Milestone 4 – Document Chamber
+
+Created a document management module with:
+
+- Upload PDF/Documents
+- Document Preview
+- E-signature Mockup
+- Status Management
+
+Status Options:
+
+- Draft
+- In Review
+- Signed
+
+### Week 2 Deliverables
+
+- Updated GitHub Repository
+- Vercel Deployment
+
+---
+
+# Week 3 – Payments, Security & Final Integration
+
+## Milestone 5 – Payment Module
+
+Implemented a payment simulation interface featuring:
+
+- Deposit
+- Withdraw
+- Transfer
+- Wallet Balance
+- Transaction History
+- Funding Deal Flow (Investor → Entrepreneur)
+
+---
+
+## Milestone 6 – Security & Access Control
+
+Enhanced authentication UI with:
+
+- Password Strength Meter
+- Multi-Step Login
+- OTP Verification (Mock)
+- Role-Based Dashboard
+
+Roles:
+
+- Investor
+- Entrepreneur
+
+---
+
+## Milestone 7 – Final Integration
+
+Completed project integration by:
+
+- Connecting all modules through navigation
+- Responsive testing across devices
+- Guided walkthrough using React Joyride
+- Final demo preparation
+
+---
+
+# Features
+
+- Modern Responsive UI
+- Meeting Scheduling
+- Calendar Management
+- Video Calling Interface
+- Document Upload & Preview
+- E-Signature Mock
+- Payment Dashboard
+- Wallet Balance
+- Transaction History
+- Role-Based Dashboard
+- Password Strength Meter
+- OTP Verification UI
+- Guided Tour
+- Mobile Friendly Design
+
+---
+
+# Installation
+
+Clone the repository:
+
+```bash
+git clone <your-repository-url>
+```
+
+Navigate to the project:
+
+```bash
+cd nexus
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+or
+
+```bash
+npm start
+```
+
+---
+
+# Build
+
+```bash
+npm run build
+```
+
+---
+
+# Deployment
+
+The project is deployed on **Vercel**.
+
+Deployment Link:
+
+```
+https://your-vercel-link.vercel.app
+```
+
+---
+
+# Project Deliverables
+
+## Week 1
+
+- Project Setup
+- UI Improvements
+- Calendar Scheduling
+
+## Week 2
+
+- Video Calling UI
+- Document Chamber
+
+## Week 3
+
+- Payment Simulation
+- Security Features
+- Role-Based Access
+- Guided Walkthrough
+- Final Integration
+
+---
+
+# Final Deliverables
+
+- Complete React Application
+- Fully Integrated Features
+- GitHub Repository
+- Vercel Deployment
+- Demo Presentation / Video
+
+---
+
+# Project Structure
+
+```
+src/
+│
+├── components/
+├── pages/
+├── layouts/
+├── hooks/
+├── services/
+├── assets/
+├── context/
+├── utils/
+└── App.jsx
+```
+
+---
+
+# Author
+
+**Advanced Frontend Internship Project**
+
+Developer: *Your Name*
+
+Submission Date: **21 July 2026**
+
+---
+
+# License
+
+This project is developed for internship evaluation purposes only.
